@@ -1,0 +1,19 @@
+*{
+	font-family: 'Gaegu';
+	color : blue;
+}
+h1{
+	text-align: center;
+	color :pink;
+	font-size:50px;
+}
+p{
+	font-size: 23px;
+}
+.c1{
+	font-size: 35px;
+	color :red;
+}
+p, h3{
+	color :green;
+}
