@@ -1,19 +1,44 @@
 *{
-	font-family: 'Gaegu';
+	font-family: 'Gaegu', cursive;
 	color : blue;
-}
-h1{
+	font-size:20px;
+	line-height: 100%;
 	text-align: center;
-	color :pink;
+
+}
+
+h1{
+	color :rgba(255, 0, 0, 0.6);
 	font-size:50px;
+	border:2px solid rgba(255, 0, 0, 0.4);
 }
-p{
-	font-size: 23px;
-}
+
 .c1{
 	font-size: 35px;
-	color :red;
+	color: rgba(255, 0, 0, 0.4);
+
 }
-p, h3{
-	color :green;
+
+h4 {
+	font-size: 25px;
+	color :rgb(136, 66, 71);
+}
+
+p{
+   color :black;
+   font-size: 20px;
+ }
+
+h1, h3, h4{
+	text-transform: uppercase;
+}
+
+ul li{
+	font-size: 20px;
+	color: Dodgerblue;
+
+}
+
+h1:hover{
+	color: white;
 }
