@@ -1,0 +1,39 @@
+*{
+	text-align :center;
+	font-family: 'Chela One', cursive;
+	font-size: 20px;
+	line-height: 200%;
+
+}
+
+html{
+	height:100%;
+}
+
+body{
+	background-image: url('./image2.jpg');
+	background-position: center;
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+div{
+	margin:0;
+	opacity : 0.3;
+	background-color: lightgray;
+}
+
+h1{
+	font-family: 'Roboto', sans-serif;
+	padding-top: 30px;
+	color: red ;
+	font-size: 60px;
+	text-shadow: 2px 2px 5px blue;
+
+}
+
+h2{
+	padding :20px;
+	font-size: 30px;
+}
+
