@@ -1,0 +1,43 @@
+h1,h2,h3{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color: black;
+
+}
+
+h1{
+	font-size: 100px;
+	color: pink;
+	padding-top: 50px
+}
+
+h3{
+	padding-bottom: 100px;
+	color:black;
+	font-size: 30px;
+}
+
+html {
+ 	height = 100%
+}
+
+body{
+	background-image: url('./img2.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+
+
+}
+
+div{
+	background-color: rgb(242, 242, 242)		;
+	padding: 30px;
+	margin-top: 110px;
+}
+
+h2{
+	padding-bottom: 460px;
+	font-size: 40px;
+}
